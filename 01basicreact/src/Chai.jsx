@@ -1,6 +1,9 @@
-function Chai(){
-    return(
-        <h2>chai in react</h2>
+function Chai() {
+    return (
+        <div>
+            <h2>chai in react</h2>
+            <h3 >edited</h3>
+        </div>
     )
 }
 
